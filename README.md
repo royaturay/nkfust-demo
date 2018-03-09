@@ -120,6 +120,14 @@ private void index(){
 ##### 附上圖片
 ```
 ![NKFUST](108524314.jpg "第一科大")
-![](檔案 "標題")
+![alt](檔案 "title")
 ```
 ![NKFUST](108524314.jpg "第一科大")
+
+##### 嵌入影片
+```
+[![Everything Is Awesome] (https://www.youtube.com/watch?v=ydQ4S3I34YE)](https://www.youtube.com/watch?v=ydQ4S3I34YE"影片")
+```
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ydQ4S3I34YE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+
+
