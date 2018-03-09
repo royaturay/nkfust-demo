@@ -97,3 +97,22 @@ show h6 title
 | col 2 is    | centered       | $12           |
 | zebra stripes | are neat     | $12           |
 | test        | 測試           |  $1            |
+
+
+##### 程式語言 顯示 ：
+```js
+$scope.cookieGet = function(key){
+  $scope.cookieResult = $cookieStore.get(key);
+  console.log($scope.cookieResult);
+}
+```
+```ruby
+def index
+puts "hello world"
+end
+```
+``` csharp
+private void index(){
+  MessageBox.Show("hello world");
+}
+```
