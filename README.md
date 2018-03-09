@@ -126,12 +126,10 @@ private void index(){
 
 ##### 嵌入影片
 ```
-[![Everything Is Awesome] (https://www.youtube.com/watch?v=ydQ4S3I34YE)]
-<https://www.youtube.com/watch?v=ydQ4S3I34YE>
+[![Everything Is Awesome](https://img.youtube.com/vi/ydQ4S3I34YE/0.jpg)](https://www.youtube.com/watch?v=ydQ4S3I34YE "Everything Is Awesome")
+[加入圖片](連結 "title")
 ```
 
-[![Everything Is Awesome] (https://www.youtube.com/watch?v=ydQ4S3I34YE)]
-
-<https://www.youtube.com/watch?v=ydQ4S3I34YE>
+[![Everything Is Awesome](https://img.youtube.com/vi/ydQ4S3I34YE/0.jpg)](https://www.youtube.com/watch?v=ydQ4S3I34YE "Everything Is Awesome")
 
 
