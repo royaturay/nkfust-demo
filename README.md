@@ -57,4 +57,19 @@ show h6 title
 符號項目:
 * Red
 或
-+
++ Green
+或
+- Blue
+```
+* Red
+* Green
+* Blue
+
+```
+連結外部超連結：
+[Yahoo 奇摩](http://tw.yahoo.com)
+或
+<https://tw.yahoo.com>
+```
+[Yahoo 奇摩](http://tw.yahoo.com)
+<https://tw.yahoo.com>
